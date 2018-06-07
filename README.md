@@ -1,5 +1,5 @@
 # PHP Email and Add to Database Contact Form
-======
+------
 
 An example of some plain PHP code with some PHPUnit tests.
 
